@@ -20,7 +20,7 @@
 		<jdk.version>1.8</jdk.version>
 		<junit.version>4.9</junit.version>
         <spring.boot.version>1.2.3.RELEASE</spring.boot.version>
-        <start-class>org.taptech.app.MuleBootstrap</start-class>
+        <start-class>com.taptech.mule.MuleBootstrap</start-class>
 	</properties>
 
 	<build>
